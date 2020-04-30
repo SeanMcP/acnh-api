@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "flimsy axe",
+      "materials": {
+        "1": 5,
+        "2": 1
+      }
+    },
+    {
+      "id": 2,
+      "name": "flimsy shovel",
+      "materials": {
+        "3": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "flimsy fishing rod",
+      "materials": {
+        "1": 5
+      }
+    },
+    {
+      "id": 4,
+      "name": "flimsy net",
+      "materials": {
+        "1": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "flimsy watering can",
+      "materials": {
+        "4": 5
+      }
+    },
+    {
+      "id": 6,
+      "name": "slingshot",
+      "materials": {
+        "3": 5
+      }
+    },
+    {
+      "id": 7,
+      "name": "vaulting pole",
+      "materials": {
+        "4": 5
+      }
+    },
+    {
+      "id": 8,
+      "name": "ladder",
+      "materials": {
+        "3": 4,
+        "4": 4,
+        "5": 4
+      }
+    }
+  ],
+  "materials": [
+    {
+      "id": 1,
+      "name": "tree branch"
+    },
+    {
+      "id": 2,
+      "name": "stone"
+    },
+    {
+      "id": 3,
+      "name": "hardwood"
+    },
+    {
+      "id": 4,
+      "name": "softwood"
+    },
+    {
+      "id": 5,
+      "name": "wood"
+    }
+  ]
+}
